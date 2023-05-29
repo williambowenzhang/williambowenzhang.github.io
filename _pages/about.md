@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! My name is William and I'm a Finance PhD student at UC Berkeley Haas. My current research interests lie broadly in Behavioural Finance/Economics, Household Finance, Financial Technology, and Corporate Finance. 
 
-Previously, I've worked with [Dr. Bradley Ruffle](https://sites.google.com/site/bradleyruffle/) doing Behavioural and Experimental economics research in the McMaster Decision Science Laboratory. I received my B.A.Sc in Arts & Science and Computer Science from McMaster University.
+Previously, I've worked with [Dr. Bradley Ruffle](https://sites.google.com/site/bradleyruffle/) doing Behavioural and Experimental economics research in the McMaster Decision Science Laboratory. I received my B.A.Sc in [Arts & Science and Computer Science](https://artsci.mcmaster.ca) from McMaster University.
 
 Feel free to get in touch! My email: williamzhang@berkeley.edu
 
