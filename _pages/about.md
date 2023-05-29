@@ -14,4 +14,4 @@ Previously, I've worked with [Dr. Bradley Ruffle](https://sites.google.com/site/
 
 Feel free to get in touch! My email: williamzhang@berkeley.edu
 
-For more detail, please click here: [CV](williamzhang.org/cv/)
+For more detail, please click here: [CV](/cv/)
