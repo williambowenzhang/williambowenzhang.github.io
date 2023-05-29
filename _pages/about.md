@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is William and I'm a Finance PhD student at UC Berkeley Haas. My current research interests are broadly Behavioural Finance/Economics, Financial Technology, and Corporate Finance. 
+Welcome! My name is William and I'm a Finance PhD student at UC Berkeley Haas. My current research interests lie broadly in Behavioural Finance/Economics, Household Finance, Financial Technology, and Corporate Finance. 
 
 Previously, I've worked with Dr. Bradley Ruffle doing Behavioural and Experimental economics research in the McMaster Decision Science Laboratory. I received my B.A.Sc in Arts & Science and Computer Science from McMaster University.
 
