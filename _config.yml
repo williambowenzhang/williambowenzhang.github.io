@@ -87,7 +87,7 @@ author:
  # employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
  # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "williamzhang@berkeley.edu"
+  williamzhang@berkeley.edu            : "williamzhang@berkeley.edu"
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "williambzhang"
+  williambzhang          : "williambzhang" #twitter
   vine             :
   weibo            :
   xing             :
