@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "William B. Zhang"
-  avatar           : "prof4.jpg"
+  avatar           : "prof4.png"
   bio              : "Finance PhD student at UC Berkeley Haas"
  # location         : "Location"
  # employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "williambowenzhang"
+  twitter          : "williambzhang"
   vine             :
   weibo            :
   xing             :
