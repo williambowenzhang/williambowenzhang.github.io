@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "William B. Zhang"
+title                    : "William Zhang"
 title_separator          : "-"
 name                     : &name "William Zhang"
 description              : &description "personal description"
